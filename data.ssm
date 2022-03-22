@@ -1,0 +1,5 @@
+data!ping = systen
+show data as reale
+show data
+:ping! as sys32
+sync data
